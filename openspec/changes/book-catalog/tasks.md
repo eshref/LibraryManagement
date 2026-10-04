@@ -2,7 +2,7 @@
 
 ## 1. Application foundation
 
-- [ ] 1.1 Scaffold a .NET 10 ASP.NET Core Blazor Web App with Interactive Server, a solution, and an xUnit test project; verify the solution builds and the application serves its initial page.
+- [x] 1.1 Scaffold a .NET 10 ASP.NET Core Blazor Web App with Interactive Server, a solution, and an xUnit test project; verify the solution builds and the application serves its initial page.
 - [ ] 1.2 Add compatible stable linq2db and Microsoft.Data.Sqlite dependencies and register the backend catalog/persistence services; verify restore succeeds and application service resolution works without EF Core.
 - [ ] 1.3 Document prerequisites and local startup in README.md; verify the documented commands start the app from a fresh checkout.
 
